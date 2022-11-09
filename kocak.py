@@ -1,0 +1,2 @@
+def stress():
+  print("haha")
